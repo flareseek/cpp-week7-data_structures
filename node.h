@@ -13,6 +13,7 @@ public:
 private:
   int value_;
   Node *next_;
+  friend class LinkedList;
 };
 
 #endif
