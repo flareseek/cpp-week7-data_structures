@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -std=c++11 -Werror -Wall -g
+CFLAGS = -Werror -Wall -g
 
 all: main.exe
 
